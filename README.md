@@ -6,10 +6,6 @@ This project implements a robust heater control system using an Arduino-compatib
 Project Details
 
 Author: Bhushan Irukulla
-Date: July 20, 2025
-Platform: Wokwi Simulator
-Microcontroller: Arduino Uno
-Submission Deadline: July 22, 2025, 09:07 AM IST
 
 Hardware Requirements
 
